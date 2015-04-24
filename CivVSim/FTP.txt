@@ -1,0 +1,11 @@
+Hostname/Server: vergil.u.washington.edu (students and RSOs); ovid.u.washington.edu (employees and shared NetIDs)
+
+Port: 22
+
+Protocol: SFTP/SSH
+
+Username: NetID
+
+Password: NetID Password
+
+Directory: Leave blank; if required, try public_html

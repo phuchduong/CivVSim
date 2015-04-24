@@ -1,0 +1,145 @@
+{
+    "Terrain": {
+        "Coast": {
+            "Resource": [
+                "Atol",
+                "Crabs",
+                "Fish",
+                "Oil",
+                "Pearls",
+                "Whales"
+            ],
+            "Yeild": {
+                "Food": 1,
+                "Production": 0,
+                "Gold": 0,
+                "Culture": 0,
+                "Faith": 0
+            }
+        },
+        "Desert": {
+            "Feature": [
+                "Flood Plains"
+            ],
+            "Resource": [
+                "Aluminum",
+                "Cotton",
+                "Gems",
+                "Gold",
+                "Incense",
+                "Iron",
+                "Marble",
+                "Oil",
+                "Sheep",
+                "Silver",
+                "Uranium",
+                "Wheat"
+            ],
+            "Yeild": {
+                "Food": 0,
+                "Production": 0,
+                "Gold": 0,
+                "Culture": 0,
+                "Faith": 0
+            }
+        },
+        "Grassland": {
+            "Feature": [
+                "Forest",
+                "Marsh"
+            ],
+            "Resource": [
+                "Cattle",
+                "Coal",
+                "Cotton",
+                "Gems",
+                "Gold",
+                "Horses",
+                "Iron",
+                "Marble",
+                "Sheep",
+                "Uranium",
+                "Wine"
+            ]
+        },
+        "Ice": {},
+        "Mountain": {},
+        "Planes": {
+            "Feature": [
+                "Forest",
+                "Jungle"
+            ],
+            "Resource": [
+                "Aluminum",
+                "Citrus",
+                "Coal",
+                "Copper",
+                "Cotton",
+                "Gems",
+                "Gold",
+                "Horses",
+                "Incense",
+                "Ivory",
+                "Marble",
+                "Salt",
+                "Sheep",
+                "Stone",
+                "Uranium",
+                "Wheat",
+                "Wine"
+            ],
+            "Yeild": {
+                "Food": 1,
+                "Production": 1,
+                "Gold": 0,
+                "Culture": 0,
+                "Faith": 0
+            }
+        },
+        "Oasis": {
+            "Yeild": {
+                "Food": 0,
+                "Production": 0,
+                "Gold": 0,
+                "Culture": 0,
+                "Faith": 0
+            }
+        },
+        "Ocean": {
+            "Yeild": {
+                "Food": 1,
+                "Production": 0,
+                "Gold": 1,
+                "Culture": 0,
+                "Faith": 0
+            }
+        },
+        "Snow": {
+            "Resource": [
+                "Iron",
+                "Oil",
+                "Uranium"
+            ]
+        },
+        "Tundra": {
+            "Feature": [
+                "Forest"
+            ],
+            "Resource": [
+                "Aluminum",
+                "Copper",
+                "Deer",
+                "Furs",
+                "Gems",
+                "Horses",
+                "Iron",
+                "Marble",
+                "Oil",
+                "Salt",
+                "Silver",
+                "Stone",
+                "Uranium"
+            ]
+        }
+    }
+}
